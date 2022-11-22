@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="title_cart">Cart</string>
+    <string name="label_chackout">Checkout</string>
+    <string name="label_cart_is_empty">Cart is Empty</string>
+    <string name="label_added_to_cart">Added to Cart</string>
+    <string name="label_order_placed">Order Placed</string>
+    <string name="label_insufficient_balance">Insufficient Balance</string>
+    <string name="label_count">Count: %d</string>
+</resources>
